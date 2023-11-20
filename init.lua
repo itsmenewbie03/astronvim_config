@@ -81,5 +81,12 @@ return {
     --     ["~/%.config/foo/.*"] = "fooscript",
     --   },
     -- }
+    -- vim.opt.spell = true
+    -- vim.opt.spelllang = "en_us"
+    -- vim.api.nvim_set_hl(
+    --   0, -- global highlight group
+    --   'SpellBad',
+    --   { sp="red",undercurl = true }
+    -- )
   end,
 }
