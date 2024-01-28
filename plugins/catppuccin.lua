@@ -3,10 +3,9 @@ return {
   name = "catppuccin",
   opts = {
     -- configuration options...
-    flavour = "mocha",
     transparent_background = true,
+    flavour = "mocha",
     custom_highlights = {
-      CursorLine = {bg="none"},
     }
   },
 }
