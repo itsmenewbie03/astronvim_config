@@ -5,7 +5,6 @@ return {
     -- configuration options...
     transparent_background = true,
     flavour = "mocha",
-    custom_highlights = {
-    }
+    custom_highlights = {},
   },
 }
